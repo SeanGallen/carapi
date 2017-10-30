@@ -1,0 +1,11 @@
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\bin\Debug\netcoreapp2.0\getVehicleLocationAPI.deps.json
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\bin\Debug\netcoreapp2.0\getVehicleLocationAPI.runtimeconfig.json
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\bin\Debug\netcoreapp2.0\getVehicleLocationAPI.runtimeconfig.dev.json
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\bin\Debug\netcoreapp2.0\getVehicleLocationAPI.dll
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\bin\Debug\netcoreapp2.0\getVehicleLocationAPI.pdb
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\obj\Debug\netcoreapp2.0\getVehicleLocationAPI.csproj.CoreCompileInputs.cache
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\obj\Debug\netcoreapp2.0\getVehicleLocationAPI.AssemblyInfoInputs.cache
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\obj\Debug\netcoreapp2.0\getVehicleLocationAPI.AssemblyInfo.cs
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\obj\Debug\netcoreapp2.0\getVehicleLocationAPI.dll
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\obj\Debug\netcoreapp2.0\getVehicleLocationAPI.pdb
+C:\Users\sean.j.gallen\Documents\Visual Studio 2017\Projects\getVehicleLocationAPI\getVehicleLocationAPI\obj\Debug\netcoreapp2.0\getVehicleLocationAPI.csprojResolveAssemblyReference.cache
